@@ -2,8 +2,9 @@
 title: "CG Narratives"
 ---
 
-## Report
-<a href="/report.pdf#" class="download" title="Download Report as PDF">Download Report</a>
+## Citizens’ Report on Security and Insecurity
+#### 12th August, 2024
+<a href="/report.pdf#" class="download" title="Download Report as PDF">Download Full Report</a>
 
 #### Images
 <img src="images/cover.jpg" width="500" />
